@@ -40,7 +40,3 @@ Currently, I’m diving deeper into back-end development, cloud technologies, an
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/siyabonga-khanyile-934787298/)  
 - [Email](mailto:siyabongakhanyile76@gmail.com)
-
----
-
-⭐ **Fun fact:** I jog every morning to stay focused and energized for coding!  
