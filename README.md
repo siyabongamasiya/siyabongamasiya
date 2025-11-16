@@ -17,8 +17,7 @@ Currently, I’m diving deeper into back-end development, cloud technologies, an
 - Kotlin, Java  
 - JavaScript, HTML, CSS  
 - React.js, React Native  
-- Node.js, Express.js  
-- Python (pandas, matplotlib)  
+- Node.js, Express.js   
 - SQL  
 
 **Tools & Platforms:**  
