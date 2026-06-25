@@ -29,7 +29,7 @@ Currently, I also have experience in back-end development, cloud technologies, a
 ---
 
 ## 📌 Current Focus
-- Building **full-stack applications** at mLab  
+- Building **full-stack applications**
 - Strengthening **backend skills** with Node.js & Express  
 - Working with **databases** (SQL & NoSQL)  
 - Learning cloud deployment workflows
