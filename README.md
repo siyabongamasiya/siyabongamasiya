@@ -1,14 +1,14 @@
 # Hi there, I'm Siyabonga Khanyile 👋
 
 🌍 **Location:** South Africa  
-💻 **Current Role:** Full-stack Development Trainee @ [mLab South Africa](https://www.mlab.co.za/)  
+💻 **Current Role:** Mobile Developer @ NHUSTA.
 🎯 **Goal:** Become a competitive full-stack developer ready for impactful global projects
 
 ---
 
 ## 🚀 About Me
 I’m a passionate Android and cross-platform developer with 2+ years of experience in Kotlin, Jetpack Compose, and UI/UX design.  
-Currently, I’m diving deeper into back-end development, cloud technologies, and full-stack solutions to create scalable and meaningful apps.
+Currently, I also have experience in back-end development, cloud technologies, and full-stack solutions to create scalable and meaningful apps.
 
 ---
 
