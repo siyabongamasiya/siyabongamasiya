@@ -30,6 +30,7 @@ Currently, I also have experience in back-end development, cloud technologies, a
 
 ## 📌 Current Focus
 - Building **full-stack applications**
+- Learning **ZOHO**.
 - Strengthening **backend skills** with Node.js & Express  
 - Working with **databases** (SQL & NoSQL)  
 - Learning cloud deployment workflows
