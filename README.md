@@ -1,7 +1,7 @@
 # Hi there, I'm Siyabonga Khanyile 👋
 
 🌍 **Location:** South Africa  
-💻 **Current Role:** Mobile Developer @ NHUSTA.
+💻 **Current Role:** Frontend Developer @ NHUSTA.
 🎯 **Goal:** Become a competitive full-stack developer ready for impactful global projects
 
 ---
